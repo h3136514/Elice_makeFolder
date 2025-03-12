@@ -11,7 +11,7 @@
 ![2](https://github.com/user-attachments/assets/d40a220b-14e0-4fb7-ab25-44657397d51a)
  <div align="center">액셀 내용</div><br>
  
-![7](https://github.com/user-attachments/assets/92f37a9e-a57d-41d6-8dac-a817145cb007)
+ ![4](https://github.com/user-attachments/assets/81ceac72-ee6a-4e84-98ac-e9ed83588042)
  <div align="center">관리목별 폴더들</div><br>
 
  ## <주의 사항>
